@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://example.com</id>
+    <title>博客空间 • Posts by &#34;人世的故事&#34; category</title>
+    <link href="http://example.com" />
+    <updated>2022-08-29T09:26:33.000Z</updated>
+    <category term="life" />
+    <entry>
+        <id>http://example.com/2022/08/29/life/meilong/</id>
+        <title>林美龙真厉害啊</title>
+        <link rel="alternate" href="http://example.com/2022/08/29/life/meilong/"/>
+        <content type="html">&lt;p&gt;1995 年出生的小可爱哦是&lt;br /&gt;
+是我喜欢的人哦&lt;br /&gt;
+&lt;img data-src=&#34;/pic/meilong.jpg&#34; alt=&#34;img&#34; /&gt;&lt;/p&gt;
+</content>
+        <category term="life" />
+        <updated>2022-08-29T09:26:33.000Z</updated>
+    </entry>
+</feed>

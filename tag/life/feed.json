@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "博客空间 • All posts by \"life\" tag",
+    "description": "愿·所得皆所期，所失亦无碍，所求皆如愿，所行化坦途",
+    "home_page_url": "http://example.com",
+    "items": [
+        {
+            "id": "http://example.com/2022/08/29/life/meilong/",
+            "url": "http://example.com/2022/08/29/life/meilong/",
+            "title": "林美龙真厉害啊",
+            "date_published": "2022-08-29T09:26:33.000Z",
+            "content_html": "<p>1995 年出生的小可爱哦是<br />\n是我喜欢的人哦<br />\n<img data-src=\"/pic/meilong.jpg\" alt=\"img\" /></p>\n",
+            "tags": [
+                "life"
+            ]
+        }
+    ]
+}
