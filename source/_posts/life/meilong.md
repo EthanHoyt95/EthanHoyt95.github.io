@@ -1,11 +1,12 @@
 ---
 title: 林美龙真厉害啊
-top: false
+top: true
 cover: false
 toc: true
 mathjax: true
 comments: true
 date: 2022-08-29 17:26:33
+id: 1
 tags:
 - life
 categories:
