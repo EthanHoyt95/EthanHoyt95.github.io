@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 愿·所得皆所期，所失亦无碍，所求皆如愿，所行化坦途
+title: 博客空间
 subtitle: ''
-description: ''
+description: '愿·所得皆所期，所失亦无碍，所求皆如愿，所行化坦途'
 keywords:
-author: John Doe
-language: en
+author: Ethan Hoyt
+language: zh-CN
 timezone: ''
 
 # URL
@@ -68,7 +68,9 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  人世的故事:life
 tag_map:
+   人间
 
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
